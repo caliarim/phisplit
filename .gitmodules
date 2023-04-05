@@ -1,0 +1,6 @@
+[submodule "extern/KronPACK"]
+	path = extern/KronPACK
+	url = git@github.com:caliarim/KronPACK.git
+[submodule "extern/phiks"]
+	path = extern/phiks
+	url = git@github.com:caliarim/phiks.git
