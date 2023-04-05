@@ -20,8 +20,8 @@ examples contained in the reference manuscript (in the folder ```examples```)
 
 ## Software
 
-You can find the zip archive of the latest complete release
-named phisplit-0.1.zip [here](???).
+You can directly download the zip archive of the latest complete release
+[here](https://github.com/caliarim/phisplit/releases/download/v0.1/phisplit-0.1.zip).
 
 Alternatively, since the repository makes use of git submodules, you can
 obtain all the relevant sources by executing
