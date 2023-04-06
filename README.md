@@ -8,7 +8,8 @@ an exponential integrator up to second order.
 For more details, see the reference manuscript
 
 [M. Caliari and F. Cassini. Direction splitting of phi-functions in exponential
-integrators for d-dimensional problems in Kronecker form, arXiv preprint arXiv:???, 2023](???)
+integrators for d-dimensional problems in Kronecker form,
+arXiv preprint arXiv:2304.02327, 2023](https://arxiv.org/abs/2304.02327)
 
 This GitHub repository contains:
 - ```phisplit.m``` (fully compatible with GNU Octave) which approximates
